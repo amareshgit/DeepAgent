@@ -1,0 +1,11 @@
+deepagents
+langchain
+langchain-openai
+langchain-groq
+ipykernel
+tavily-python
+beautifulsoup4
+transformers
+python-dotenv
+langchain-ollama
+langchain_quickjs
